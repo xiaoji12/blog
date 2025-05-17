@@ -1,7 +1,7 @@
 name: "Xiaoji's blog"
 description: "https://dqtgppco.ap-northeast-1.clawcloudrun.com/"
 
-avatar: https://i2.hdslb.com/bfs/article/9e7f3233618467153446d8e3d0928d33d5f59c02.png@1192w_1192h.avif
+avatar: https://tiebapic.baidu.com/forum/pic/item/dae919eff01f3a29bed23c14dc25bc315d607c15.jpg
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
@@ -15,9 +15,9 @@ navigation:
 paginate: 8
 
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2025 Xiaoji12
 
-url: https://xiaoji12github.io
+url: https://xiaoji12.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
