@@ -1,5 +1,5 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "Xiaoji's blog"
+description: "https://dqtgppco.ap-northeast-1.clawcloudrun.com/"
 
 avatar: https://pianfan.github.io/images/avatar.jpg
 favicon: https://pianfan.github.io/images/favicon.ico
@@ -14,16 +14,6 @@ navigation:
 
 paginate: 8
 
-excerpt_separator: <!-- more -->
-
-footer-links:
-  zhihu: 
-  email: xiongyunhan@outlook.com
-  facebook:
-  github: pianfan
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  youtube:
 
 footer-text: Copyright (c) 2024 Pianfan
 
