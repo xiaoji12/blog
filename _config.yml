@@ -11,6 +11,8 @@ navigation:
     url: /about
   - name: 分类
     url: /tags
+  - name: Alist
+    url: https://dqtgppco.ap-northeast-1.clawcloudrun.com/
 
 paginate: 8
 
