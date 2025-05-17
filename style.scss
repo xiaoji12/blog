@@ -725,5 +725,26 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 //@import "gitalk";
+// 在 _variables.scss 中定义
+$system-fonts: 
+    // iOS 字体
+    "PingFang SC",         // iOS 9+ 苹方
+    "Hiragino Sans GB",    // iOS 8- 冬青黑体
+    
+    // Android 字体
+    "MiSans",              // 小米
+    "HarmonyOS Sans SC",   // 华为鸿蒙
+    "OPPOSans",            // OPPO
+    "Noto Sans CJK SC",    // 谷歌原生
+    "Source Han Sans SC",  // 思源黑体
+    
+    // 通用回退
+    "Microsoft YaHei",     // Windows
+    "WenQuanYi Micro Hei", // Linux
+    sans-serif;
 
+body {
+  font-family: $system-fonts;
+  font-weight: 400; // 标准字重
+}
 
