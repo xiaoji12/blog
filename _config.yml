@@ -7,12 +7,12 @@ favicon: https://raw.githubusercontent.com/xiaoji12/xiaoji12.github.io/main/imag
 navigation:
   - name: 首页
     url: /
-  - name: 关于
-    url: /about
   - name: 分类
     url: /tags
   - name: Alist
     url: https://dqtgppco.ap-northeast-1.clawcloudrun.com/
+  - name: 关于
+    url: /about
 
 paginate: 8
 
